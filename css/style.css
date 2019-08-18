@@ -241,6 +241,11 @@ header .intro-text {
 	padding: 120px 0 80px 0;
 	background: #f6f6f6;
 }
+
+#about h2{
+	color: #111;
+}
+
 #about h3 {
 	font-size: 22px;
 	font-weight: 600;
@@ -298,6 +303,7 @@ header .intro-text {
 	border-radius: 50%;
 	border: 10px solid rgba(0,103,255,0.6);
 }
+
 #speakers .service-desc,
 #venue .service-desc,
 #organizers .service-desc,
@@ -313,6 +319,9 @@ header .intro-text {
 {
 	color: #fff;
 }
+
+
+
 #speakers h3,
 #venue h3,
 #organizers h3,
@@ -431,4 +440,12 @@ header .intro-text {
 }
 #footer a:hover {
 	color: #ccc;
+}
+
+#contact{
+	background: #fff;
+}
+
+#contact h2{
+	color: #111;
 }
